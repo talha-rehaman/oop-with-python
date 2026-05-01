@@ -1,0 +1,2 @@
+Today was a great day!
+This is a new line added using the apend mode
