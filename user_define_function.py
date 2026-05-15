@@ -21,7 +21,7 @@
 
 #     return even, odd
 
-# print(count_even_odd([1, 2, 3, 4, 5, 6]))
+# print(count_even_odd([1, 2, 3, 4, 5, 6,7,8]))
 # def separate_numbers(numbers):
 #     even_list = []
 #     odd_list = []
